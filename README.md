@@ -1,3 +1,16 @@
+## ✏️ wireframe: "Eine neue Frage erstellen"
+
+<img src="https://github.com/ur5/fhn-ux-ideas/raw/main/wireframes/wireframe_frage.png" width="800">
+
+
+## ✏️ wireframe: "Auf eine Frage antworten"
+
+Hier am Beispiel "Zutatenliste". Andere Umfrageformen erfordern teilweise andere Antwortfelder.
+
+<img src="https://github.com/ur5/fhn-ux-ideas/raw/main/wireframes/wireframe_antwort.png" width="800">
+
+
+
 ## Beispielfragen: 
 
 <img src="https://github.com/ur5/fhn-ux-ideas/raw/main/png/Beet_Hinterhof.png" width="480">
